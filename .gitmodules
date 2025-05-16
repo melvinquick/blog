@@ -1,7 +1,7 @@
 [submodule "melvinquick/themes/PaperMod"]
 path = melvinquick/themes/PaperMod
 url = https://github.com/adityatelange/hugo-PaperMod.git
-[submodule "public"]
-	path = public
-	url = https://codeberg.org/melvinquick/melvinquick.github.io.git
-	branch = main
+[submodule "melvinquick/public/"]
+path = melvinquick/public/
+url = https://codeberg.org/melvinquick/melvinquick.github.io.git
+branch = main
