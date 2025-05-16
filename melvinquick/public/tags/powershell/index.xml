@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Powershell on Melvin Quick</title>
     <link>https://melvinquick.github.io/tags/powershell/</link>
     <description>Recent content in Powershell on Melvin Quick</description>
-    <image>
-      <title>Melvin Quick</title>
-      <url>https://melvinquick.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://melvinquick.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- 0.147.3</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Feb 2024 11:27:18 -0400</lastBuildDate>
     <atom:link href="https://melvinquick.github.io/tags/powershell/index.xml" rel="self" type="application/rss+xml" />
@@ -18,8 +13,7 @@
       <link>https://melvinquick.github.io/posts/reset_windows_software_dsitribution_folder/</link>
       <pubDate>Thu, 22 Feb 2024 11:27:18 -0400</pubDate>
       <guid>https://melvinquick.github.io/posts/reset_windows_software_dsitribution_folder/</guid>
-      <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;
-&lt;p&gt;Sometimes you need to clear space on Windows machine and it&amp;rsquo;s not always obvious where you can save those bytes at. You may look for temp folders/files, games you can/should uninstall, or old profiles you can remove, but sometimes the easiest way is to cleanup the SoftwareDistribution Folder! This folder houses files that may be required for Windows Updates, such as hotfixes or cumulative updates. Sometimes though, this folder doesn&amp;rsquo;t get cleaned up like it shoud and leaves a lot of unnecessary files behind. The following is a step-by-step guide on how to clean up this folder and reset it back to stock so that you may claim that space for something better&amp;hellip; like more games!&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;&#xA;&lt;p&gt;Sometimes you need to clear space on Windows machine and it&amp;rsquo;s not always obvious where you can save those bytes at. You may look for temp folders/files, games you can/should uninstall, or old profiles you can remove, but sometimes the easiest way is to cleanup the SoftwareDistribution Folder! This folder houses files that may be required for Windows Updates, such as hotfixes or cumulative updates. Sometimes though, this folder doesn&amp;rsquo;t get cleaned up like it shoud and leaves a lot of unnecessary files behind. The following is a step-by-step guide on how to clean up this folder and reset it back to stock so that you may claim that space for something better&amp;hellip; like more games!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

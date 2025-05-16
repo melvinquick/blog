@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Melvin Quick</title>
     <link>https://melvinquick.github.io/categories/</link>
     <description>Recent content in Categories on Melvin Quick</description>
-    <image>
-      <title>Melvin Quick</title>
-      <url>https://melvinquick.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://melvinquick.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- 0.147.3</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Feb 2024 11:27:18 -0400</lastBuildDate>
     <atom:link href="https://melvinquick.github.io/categories/index.xml" rel="self" type="application/rss+xml" />

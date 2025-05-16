@@ -1,3 +1,1 @@
 User-agent: *
-Disallow:
-Sitemap: https://melvinquick.github.io/sitemap.xml
