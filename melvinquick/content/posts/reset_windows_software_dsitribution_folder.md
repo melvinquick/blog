@@ -2,7 +2,7 @@
 date: "2024-02-22T11:27:18-04:00"
 draft: false
 title: "Reset the SoftwareDistribution Folder Back to Stock in Windows"
-tags: ["windows", "powershell", "disk_cleanup"]
+tags: ["windows", "powershell", "disk cleanup"]
 categories: ["windows"]
 ---
 
