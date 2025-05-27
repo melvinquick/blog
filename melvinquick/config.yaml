@@ -95,7 +95,7 @@ menu:
     - identifier: social_media_links
       name: Socials
       url: /posts/socials/
-      weight: 50
+      weight: 60
     - identifier: about_me
       name: About
       url: /posts/about/
@@ -104,3 +104,7 @@ menu:
       name: Posts
       url: /posts/
       weight: 20
+    - identifier: resume_cv
+      name: Resume
+      url: /posts/resume/
+      weight: 50
